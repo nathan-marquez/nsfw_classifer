@@ -2,7 +2,7 @@ This repo is based off of and modifies the work done by GantMan here: https://gi
 
 
 Tested with and currently requires: 
-Python 3.83
+Python 3.8.3
 Tensorflow 2.6.0
 Keras 2.6.0
 
